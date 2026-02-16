@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppTheme {
-  // Indigo theme colors for Shop Owner App
+  // Indigo theme colors for Shop Owner App_____
   static const Color primaryIndigo = Color(0xFF3F51B5);
   static const Color lightIndigo = Color(0xFF9FA8DA);
   static const Color darkIndigo = Color(0xFF303F9F);
@@ -72,4 +72,5 @@ class AppTheme {
       ),
     );
   }
+
 }
