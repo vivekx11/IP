@@ -2,7 +2,7 @@ class AppConstants {
   // API Base URL - PRODUCTION
   static const String baseUrl = 'https://instantpick-backend.onrender.com/api';
   
-  // For local development, uncomment below:
+  // For local development, uncomment below:_____
   // static const String baseUrl = 'http://10.0.2.2:5000/api'; // Android Emulator
   // static const String baseUrl = 'http://localhost:5000/api'; // iOS Simulator
   // static const String baseUrl = 'http://YOUR_IP:5000/api'; // Physical Device
@@ -39,3 +39,4 @@ class AppConstants {
     'Other',
   ];
 }
+
